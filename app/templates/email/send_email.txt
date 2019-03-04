@@ -1,0 +1,6 @@
+Hello {{user.name}}
+
+There is a new Post on Truthy!!!
+Title:{{post.title}}
+
+Please check it out now

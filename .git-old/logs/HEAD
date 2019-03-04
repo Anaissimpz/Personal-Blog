@@ -1,0 +1,17 @@
+0000000000000000000000000000000000000000 2d60331c36863e1dc292fb1026b7771d8f443f3d Anaissimpz <anaissimpenzwe@gmail.com> 1551687580 +0200	commit (initial): import blueprint in __init__.py
+2d60331c36863e1dc292fb1026b7771d8f443f3d 54b058c6986f0c00bdcc01392255d93255eb1a31 Anaissimpz <anaissimpenzwe@gmail.com> 1551687644 +0200	commit: create Registration and login Form in forms.py
+54b058c6986f0c00bdcc01392255d93255eb1a31 e5a18a5485e3198d02c50475f997d357090361de Anaissimpz <anaissimpenzwe@gmail.com> 1551688119 +0200	commit: add login function in auth's views.py
+e5a18a5485e3198d02c50475f997d357090361de 7eb7d83769f27fa1f59b915e6cb40f16f3397d2a Anaissimpz <anaissimpenzwe@gmail.com> 1551688460 +0200	commit: import views and errors in main's __init__.py
+7eb7d83769f27fa1f59b915e6cb40f16f3397d2a 17fcb26c9d0ac02399f4a5c606b521e025bf3bea Anaissimpz <anaissimpenzwe@gmail.com> 1551689222 +0200	commit: add errors.py file
+17fcb26c9d0ac02399f4a5c606b521e025bf3bea e9a122e58fb1941cdc2720a4d70b961435909192 Anaissimpz <anaissimpenzwe@gmail.com> 1551691817 +0200	commit: add subscriptionform in forms.py
+e9a122e58fb1941cdc2720a4d70b961435909192 214751c7107948dcb740a2582cb5082781af271f Anaissimpz <anaissimpenzwe@gmail.com> 1551691871 +0200	commit: add function that displays the quotes
+214751c7107948dcb740a2582cb5082781af271f d3a809e1d8b772eb9bca1663b8f08fd1e8af971e Anaissimpz <anaissimpenzwe@gmail.com> 1551691988 +0200	commit: add text that is sent when you subscribe
+d3a809e1d8b772eb9bca1663b8f08fd1e8af971e f0af86eb23c63eabae17505046d30fc842b69392 Anaissimpz <anaissimpenzwe@gmail.com> 1551693740 +0200	commit: add paragraph that says no picture when someone doesn't have one in profile.html
+f0af86eb23c63eabae17505046d30fc842b69392 e96d66d095a99b42a382a0991303a1107d00c32b Anaissimpz <anaissimpenzwe@gmail.com> 1551693916 +0200	commit: add file of update.html
+e96d66d095a99b42a382a0991303a1107d00c32b 89a32251d968d7ef7b1c4aef569329599087b1a3 Anaissimpz <anaissimpenzwe@gmail.com> 1551695218 +0200	commit: add bootstrapp in base.html
+89a32251d968d7ef7b1c4aef569329599087b1a3 ef463d5a2f72f1805bb9b259e86ee69e2dd7751e Anaissimpz <anaissimpenzwe@gmail.com> 1551695509 +0200	commit: add file comment.hmtl
+ef463d5a2f72f1805bb9b259e86ee69e2dd7751e 7900da139dcc8c132e772fb64fa8a42d04a86db1 Anaissimpz <anaissimpenzwe@gmail.com> 1551695694 +0200	commit: add bootstrap in auth-base.html
+7900da139dcc8c132e772fb64fa8a42d04a86db1 ed887cee30077834889770924d641378f54836ba Anaissimpz <anaissimpenzwe@gmail.com> 1551695746 +0200	commit: add login form in login.html
+ed887cee30077834889770924d641378f54836ba ddd1dc61486e4256645dc85d0c135af56c8a3ab0 Anaissimpz <anaissimpenzwe@gmail.com> 1551695818 +0200	commit: add a form to create a user in register.html
+ddd1dc61486e4256645dc85d0c135af56c8a3ab0 7ee4170202d4ee5412ced12f6010640eaf195ad9 Anaissimpz <anaissimpenzwe@gmail.com> 1551696432 +0200	commit: call a function to add blog post in index.html
+7ee4170202d4ee5412ced12f6010640eaf195ad9 dd2f53902fa83c19c96cb97d9b7ca61f2719dddb Anaissimpz <anaissimpenzwe@gmail.com> 1551697066 +0200	commit: debugging
