@@ -103,7 +103,6 @@ class Post(db.Model):
        db.session.delete(self)
        db.session.commit()
 
-
 class Subscription(db.Model):
      __tablename__='subscribers'
 
