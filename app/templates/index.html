@@ -11,24 +11,30 @@
 {% endblock %}
 
 {% block content %}
-<div class="container">
+<body>
+<div class="container one">
   <div class="row">
-      <blockquote class="text-center text-lg">
+      <div  class=" jumbotron text-center text-lg">
           <p>{{quote.content}}</p>
           <footer><cite>{{quote.author}}</cite></footer>
-      </blockquote>
-      <a href="/post/new" class="btn btn-primary">Add Blog post</a>
-  </div>
-  
-</div>
-{{ macro.displayPosts(posts)}}<br>
-<div id="sub">
-        <h3>If you want to receive notifications when new post is added.</h3>
-        <h2>Subscribe here</h2>
-    <div id='subscription'class='container'>
+      </div>
+    </div>
     
-    {{wtf.quick_form(subscription_form)}}
+</div>
+<a href="/post/new" class="btn btn-primary">Add Blog post</a>
+<div class="mine">
+{{ macro.displayPosts(posts)}}
+</div>
+<div id='subscription'class='container two'>
+    <div class="row">
+        <div class="col-md-4">
+            <h2>Subscribe here</h2>
+            {{wtf.quick_form(subscription_form)}}
+            
+        </div>
     </div>
-    </div>
+        
+</div>
+</body>
 
 {% endblock %}
