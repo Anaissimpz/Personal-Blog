@@ -58,6 +58,7 @@ python manage.py db upgrade
      $ ./start.sh
 
 ## Technologies used
+
 * Python3.6
 * HTML
 * Bootstrap
