@@ -28,8 +28,8 @@ Beauty blog is a my personal blog whereby i will be posting different blog posts
 
 ### Cloning
 * In your terminal<br>
-   $ git clone https://github.com/Anaissimpz/Personal-blog.git
-   $ cd MeBlog
+   * $ git clone https://github.com/Anaissimpz/Personal-blog.git
+   * $ cd Personal-Blog
 
 ### Install postgres
 [Postgres]()
