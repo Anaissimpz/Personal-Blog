@@ -7,9 +7,6 @@ from ..models import Quote,Post,User,Comment,Subscription
 from flask_login import login_required, current_user
 from ..email import mail_message
 
-# import markdown2 
-# from flask_fontawesome import FontAwesome
-
 @main.route('/', methods = ['GET', 'POST'])
 def index():
   '''
