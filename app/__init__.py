@@ -19,16 +19,11 @@ mail = Mail()
 
 def create_app(config_name):
     app = Flask(__name__)
-    
-
-
     # Creating the app configurations
     app.config.from_object(config_options[config_name])
     
     # configure UploadSet
     configure_uploads(app,photos)
-
-
 
     # Registering the blueprint
     from .main import main as main_blueprint
